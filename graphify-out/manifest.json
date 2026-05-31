@@ -1,0 +1,427 @@
+{
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\eslint.config.mjs": {
+    "mtime": 1779820555.9247317,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\next.config.mjs": {
+    "mtime": 1779913159.3078432,
+    "ast_hash": "952870559c2987b236d177638e2e88da",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\package.json": {
+    "mtime": 1780028030.0919266,
+    "ast_hash": "92e446c1df41c7703dbe7466f1783c55",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\postcss.config.mjs": {
+    "mtime": 1779909252.5246408,
+    "ast_hash": "d3fd1d29b05a09ff76b595a70e1e7d50",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\tailwind.config.ts": {
+    "mtime": 1780029652.4680502,
+    "ast_hash": "365189bcc3801dbce25dd9c0459a17eb",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\tsconfig.json": {
+    "mtime": 1779909013.1972327,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\manifest.json": {
+    "mtime": 1779913138.247412,
+    "ast_hash": "fe88067364dfc76cea2f95ab09e221fa",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\sw-push.js": {
+    "mtime": 1779980714.9429545,
+    "ast_hash": "fa62ff4dbf0a7345e77ae113e776d44c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\middleware.ts": {
+    "mtime": 1780073764.5134933,
+    "ast_hash": "7f1c28b132013d2f13b83735ca4120b6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\layout.tsx": {
+    "mtime": 1780034743.4270313,
+    "ast_hash": "e199c643723c7f1f2ff6032f8642d903",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\page.tsx": {
+    "mtime": 1780079217.4156966,
+    "ast_hash": "594242d58c058956717d62a9e61ca314",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\activity\\page.tsx": {
+    "mtime": 1780079489.4480977,
+    "ast_hash": "baa0379f9ad489939e8d154acd85ca27",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\analytics\\page.tsx": {
+    "mtime": 1780078192.0778801,
+    "ast_hash": "c8709784854af103dcec4e0330d9735c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\api\\push\\send\\route.ts": {
+    "mtime": 1779980707.5717943,
+    "ast_hash": "d92e6d4295f7a95cb51a9c1f78a27bb3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\api\\push\\subscribe\\route.ts": {
+    "mtime": 1779980701.786649,
+    "ast_hash": "63be8369880165ab4635bf0b47f39829",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\auth\\callback\\route.ts": {
+    "mtime": 1779980297.1816401,
+    "ast_hash": "c0a4a4b40bc757518a28b8f8995a4625",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\command\\page.tsx": {
+    "mtime": 1780080560.8728547,
+    "ast_hash": "fcfdb4347b6c20fb1468f41c3d6387a6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\login\\page.tsx": {
+    "mtime": 1780078471.9038732,
+    "ast_hash": "c2c39bc2440a6d812d31ba8a3473efa2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\mission\\page.tsx": {
+    "mtime": 1780079536.158952,
+    "ast_hash": "94eb61249124492bf6d9fd05e4036ec2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\profile\\page.tsx": {
+    "mtime": 1780080358.4996557,
+    "ast_hash": "df5e3ecb5772fa43b7ea6fbf34cb98ec",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\report\\page.tsx": {
+    "mtime": 1780079471.0601132,
+    "ast_hash": "3d5a7e4483502bb41d053d866ff68539",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\providers.tsx": {
+    "mtime": 1780078100.0590343,
+    "ast_hash": "bf3be88d40d5304c7d06e15fc83b2333",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\layout\\bottom-nav.tsx": {
+    "mtime": 1780035147.9685235,
+    "ast_hash": "f8a69cd2828216f042023f26340d0991",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\layout\\insights-panel.tsx": {
+    "mtime": 1780036297.8717244,
+    "ast_hash": "6c46bd338ca8a6bd1391bda7ff94436f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\layout\\notification-center.tsx": {
+    "mtime": 1780036456.2419505,
+    "ast_hash": "9e7feb3d4f163bec921dafd162dfafa5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\layout\\sync-indicator.tsx": {
+    "mtime": 1779979828.9534104,
+    "ast_hash": "e6750b46e2c0a01289406f8e65fe0d0e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\map\\map-filter-bar.tsx": {
+    "mtime": 1780030748.3337195,
+    "ast_hash": "1cba66f46b6749606ece6d620762c9f4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\map\\map-view.tsx": {
+    "mtime": 1780078832.6037462,
+    "ast_hash": "5a3c20f9e55dd7d4697dc76f48b309b9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\station\\create-station-sheet.tsx": {
+    "mtime": 1780080959.4891393,
+    "ast_hash": "f995e537b51da5fc2e4d6e46ad5ece79",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\station\\report-detail-sheet.tsx": {
+    "mtime": 1780035496.112917,
+    "ast_hash": "884d2fb39034b89a75abe8e5bbff5ef1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\components\\station\\station-detail-sheet.tsx": {
+    "mtime": 1780074910.6339426,
+    "ast_hash": "461f8143b80b2a75f7fe4627c0eacb5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\hooks\\use-analytics-events.ts": {
+    "mtime": 1780081007.0808702,
+    "ast_hash": "d603b1f10da06a79f362391f0328dab4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\hooks\\use-ecosystem.ts": {
+    "mtime": 1780081955.3995664,
+    "ast_hash": "15315e11d7bc0e6197e01bb6e2116007",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\hooks\\use-intelligence.ts": {
+    "mtime": 1780032144.5418818,
+    "ast_hash": "ddbf27fa79a510d2ca110235f1b5e19d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\hooks\\use-realtime-sync.ts": {
+    "mtime": 1780081029.4292154,
+    "ast_hash": "644eeb94cac8f2485daadb064da4a24c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\hooks\\use-stations.ts": {
+    "mtime": 1780080923.6575973,
+    "ast_hash": "53aeb6761cd47a9611ddf4e3bd1f4f1b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\auth-context.tsx": {
+    "mtime": 1780073590.4129877,
+    "ast_hash": "0677d5d486fa558171198c2d5048ffbc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\demo-data.ts": {
+    "mtime": 1779979666.0167327,
+    "ast_hash": "99823b317ddf7eeb6177335ca5391615",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\demo-engine.ts": {
+    "mtime": 1780080552.5099306,
+    "ast_hash": "7d0abda95e537a58f2837bb317d2a27c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\demo-tour.ts": {
+    "mtime": 1780080600.2621608,
+    "ast_hash": "e02dd137d3ff0f261abc9f33b43c1be4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\ecosystem-config.ts": {
+    "mtime": 1779981134.0499928,
+    "ast_hash": "f2d6b186c83bb7bbc59add4f66bc1e8b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\event-bus.ts": {
+    "mtime": 1780080646.050074,
+    "ast_hash": "f0b7367b861f1bc3f3d3a5f64724bb5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\intelligence.ts": {
+    "mtime": 1780080708.1455708,
+    "ast_hash": "02350dd905e2d7de5fe253ec16a4852f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\narrative-engine.ts": {
+    "mtime": 1780080193.4608383,
+    "ast_hash": "9d937bdeb57062818b26593463a3fa1e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\notification-system.ts": {
+    "mtime": 1780080223.2537568,
+    "ast_hash": "2b8bb86c13ba485fed7e6f2bf3016179",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\offline-store.ts": {
+    "mtime": 1779978616.0828853,
+    "ast_hash": "b3d4a206f5e8b75a104ae046c065e9b6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\supabase-browser.ts": {
+    "mtime": 1779978459.1395688,
+    "ast_hash": "a948f713631e605becf83c8515ee5303",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\supabase-server.ts": {
+    "mtime": 1779982577.325566,
+    "ast_hash": "806b83bd534ed1ddc0cd841169bd70bb",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\types.ts": {
+    "mtime": 1780035697.7452557,
+    "ast_hash": "da11de77d3574be1aa92a71e6fba22f0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\use-analytics.ts": {
+    "mtime": 1780081118.670828,
+    "ast_hash": "7277d23a24a85c961f3903c9d5dc065f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\use-geolocation.ts": {
+    "mtime": 1780080028.98754,
+    "ast_hash": "dc00d77e270ac30311fb03e4afbf04de",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\use-offline-sync.ts": {
+    "mtime": 1780080020.6555548,
+    "ast_hash": "aea4b898218c10422696c16b19829f8f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\use-realtime.ts": {
+    "mtime": 1780081979.4407694,
+    "ast_hash": "25b5e2a2ab7eb48680b2cb766b310c3d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\utils.ts": {
+    "mtime": 1779909295.073347,
+    "ast_hash": "ea4178633d53f370d6de1918144a84c2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\utils\\push\\vapid.ts": {
+    "mtime": 1780081153.5369768,
+    "ast_hash": "d2ddafeab2f0f98a7a45d28615089566",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\utils\\supabase\\client.ts": {
+    "mtime": 1779980186.3287392,
+    "ast_hash": "d40e15bf810773defd04b267899e517b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\utils\\supabase\\server.ts": {
+    "mtime": 1780080095.3726568,
+    "ast_hash": "ddceb52ba1ec99829859b4bc17543030",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migration_phase2.sql": {
+    "mtime": 1779978369.6870203,
+    "ast_hash": "4da2e7af776a8a9b530abaca02520f52",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\schema.sql": {
+    "mtime": 1779909684.3233426,
+    "ast_hash": "65bb90f908202c4d5e34acaf58da480e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\001_initial_schema.sql": {
+    "mtime": 1779980226.6679912,
+    "ast_hash": "903fa5b782998b875c2bc1b083ec4268",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\002_phase2.sql": {
+    "mtime": 1779980238.1388674,
+    "ast_hash": "27f3da84204125050aa688499a89d10a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\003_phase3.sql": {
+    "mtime": 1779980906.0565555,
+    "ast_hash": "d051755b8b6b7698f478da68a5b4b6cd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\004_push_subscriptions.sql": {
+    "mtime": 1779980679.7368402,
+    "ast_hash": "f799338af0f6e9b7e65e3c6f2f5555ae",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\005_security_and_analytics_rpc.sql": {
+    "mtime": 1779982532.5963793,
+    "ast_hash": "ddfe4f9d21100171e0f3d7a89488d6d9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\AGENTS.md": {
+    "mtime": 1779909142.5446887,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\CLAUDE.md": {
+    "mtime": 1779909142.5459988,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\README.md": {
+    "mtime": 1779820555.8732233,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\file.svg": {
+    "mtime": 1779820556.0182402,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\globe.svg": {
+    "mtime": 1779820556.0483055,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\next.svg": {
+    "mtime": 1779820556.0820787,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\vercel.svg": {
+    "mtime": 1779820556.1183295,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\window.svg": {
+    "mtime": 1779820556.1466677,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\icons\\icon-192x192.png": {
+    "mtime": 1780074682.05557,
+    "ast_hash": "925730601baf22715afb82115dcf347a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\icons\\icon-512x512.png": {
+    "mtime": 1780074682.05557,
+    "ast_hash": "925730601baf22715afb82115dcf347a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\demo-context.tsx": {
+    "mtime": 1780078092.3057635,
+    "ast_hash": "158c3598c6003a1d3a057259c6db236b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\lib\\icons.ts": {
+    "mtime": 1780035384.7934442,
+    "ast_hash": "3ad41a6e32cddca2503d857f265050d4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\006_narrative_intelligence_rpc.sql": {
+    "mtime": 1780032132.7463083,
+    "ast_hash": "b30d9c47c17bfca90f2001b1b01541a0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\007_production_hardening.sql": {
+    "mtime": 1780076183.786327,
+    "ast_hash": "b1a643e35c9fff5309f2bfbac0986e2a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\supabase\\migrations\\008_backend_optimization.sql": {
+    "mtime": 1780081953.5392582,
+    "ast_hash": "27628f3e713654baa63e818e5c6a52ed",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\pawloop-logo-black.png": {
+    "mtime": 1780074744.782109,
+    "ast_hash": "2d811422bb2f60602ea9ffd8b92cbecc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\pawloop-logo-horizontal-2.png": {
+    "mtime": 1780074754.8335333,
+    "ast_hash": "054ecff091624824e9efc4da3196eb3f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\pawloop-logo-horizontal.png": {
+    "mtime": 1780074585.8119116,
+    "ast_hash": "054ecff091624824e9efc4da3196eb3f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\pawloop-logo-icon.png": {
+    "mtime": 1780074682.05557,
+    "ast_hash": "925730601baf22715afb82115dcf347a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\public\\pawloop-logo-vertical.png": {
+    "mtime": 1780075109.9883523,
+    "ast_hash": "fb608870262ad319d61b1891b539ca03",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Home\\Downloads\\PROJECTS\\PROJECT ANIMAL ECO SYSTEM\\pawloop\\src\\app\\icon.png": {
+    "mtime": 1780074682.05557,
+    "ast_hash": "925730601baf22715afb82115dcf347a",
+    "semantic_hash": ""
+  }
+}
